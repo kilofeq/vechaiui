@@ -1,4 +1,4 @@
-import { Position } from "@vechaiui/toasted-notes";
+import { Position } from "../../toasted-notes";
 import { DefaultProps } from "@vechaiui/theme";
 import * as React from "react";
 interface IToast extends DefaultProps {
