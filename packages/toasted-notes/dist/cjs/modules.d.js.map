@@ -1,0 +1,1 @@
+{"version":3,"file":"modules.d.js","names":[],"sources":["../../src/modules.d.ts"],"sourcesContent":["declare module \"@reach/alert\" {\n  export interface AlertProps {\n    children?: React.ReactElement<any>;\n    type?: \"assertive\" | \"polite\";\n    className?: string;\n  }\n\n  const Alert: React.SFC<AlertProps>;\n  export default Alert;\n}\n"],"mappings":""}

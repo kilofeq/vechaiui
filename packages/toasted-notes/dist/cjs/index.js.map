@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["toaster","Toaster"],"sources":["../../src/index.ts"],"sourcesContent":["import Toaster from \"./Toast\";\n\nconst toaster = new Toaster();\n\nexport { default as Position } from \"./Positions\";\n\nexport { toaster };\n"],"mappings":";;;;AAAA;AAIA;AAAkD;AAAA;AAFlD,IAAMA,OAAO,GAAG,IAAIC,iBAAO,EAAE;AAAC"}
